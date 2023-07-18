@@ -3,6 +3,9 @@ api-key.*
 
 .idea
 
+# macOS
+.DS_Store
+
 # Logs
 logs
 *.log
