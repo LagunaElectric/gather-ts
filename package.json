@@ -1,6 +1,6 @@
 {
-  "name": "the-forest",
-  "version": "2.0.1",
+  "name": "gather-ts",
+  "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/gathertown/the-forest.git"
   },
-  "author": "npfoss",
+  "author": "LagunaElectric",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/gathertown/the-forest/issues"
